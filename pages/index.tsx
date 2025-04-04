@@ -17,14 +17,14 @@ export default function home() {
 
         <meta property="og:title" content="Abdul Qadir | Full Stack Developer" />
         <meta property="og:type" content="article" />
-        {/* <meta
+        <meta
           property="og:url"
-          content="https://portfolio-v1-eight-xi.vercel.app/"
+          content="https://portfolio-v2-two-teal-30.vercel.app/"
         />
         <meta
           property="og:image"
-          content="https://portfolio-v1-eight-xi.vercel.app/screenshot.png"
-        /> */}
+          content="https://portfolio-v2-two-teal-30.vercel.app/screenshot.png"
+        />
         <meta
           property="og:description"
           content="Hi! I'm Abdul Qadir, a dedicated Software Developer specializing in full stack development. I am passionate about building user-centric, performant, and scalable web/mobile applications. With expertise in modern JavaScript/TypeScript frameworks like React, NextJS, React Native and MERN stack, I thrive on turning innovative ideas into seamless digital experiences."
@@ -41,20 +41,20 @@ export default function home() {
           content="Hi! I'm Abdul Qadir, a dedicated Software Developer specializing in full stack development. I am passionate about building user-centric, performant, and scalable web/mobile applications. With expertise in modern JavaScript/TypeScript frameworks like React, NextJS, React Native and MERN stack, I thrive on turning innovative ideas into seamless digital experiences."
         />
         <meta name="twitter:creator" content="@abdulqadir" />
-        {/* <meta
+        <meta
           name="twitter:image"
-          content="https://portfolio-v1-eight-xi.vercel.app/screenshot.png"
-        /> */}
+          content="https://portfolio-v2-two-teal-30.vercel.app/screenshot.png"
+        />
 
         <meta itemProp="name" content="Abdul Qadir | Full Stack Developer" />
         <meta
           itemProp="description"
           content="Hi! I'm Abdul Qadir, a dedicated Software Developer specializing in full stack development. I am passionate about building user-centric, performant, and scalable web applications. With expertise in modern JavaScript/TypeScript frameworks like React, NextJS, and MERN stack, I thrive on turning innovative ideas into seamless digital experiences."
         />
-        {/* <meta
+        <meta
           itemProp="image"
-          content="https://portfolio-v1-eight-xi.vercel.app/screenshot.png"
-        /> */}
+          content="https://portfolio-v2-two-teal-30.vercel.app/screenshot.png"
+        />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
