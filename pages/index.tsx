@@ -12,7 +12,7 @@ export default function home() {
         <meta property="og:title" content="Abdul Qadir | Full Stack Developer" />
         <meta
           name="description"
-          content="Hi! I'm Abdul Qadir, a dedicated Software Developer specializing in full stack development. I am passionate about building user-centric, performant, and scalable web/mobile applications. With expertise in modern JavaScript/TypeScript frameworks like React, NextJS, React Native and MERN stack, I thrive on turning innovative ideas into seamless digital experiences."
+          content="Hi! I'm Abdul Qadir, a dedicated Software Developer specializing in full stack development. I am passionate about building user-centric, performant, and scalable web/mobile applications. With expertise in modern JavaScript/TypeScript frameworks like React, NextJS, React Native and MERN Stack, I thrive on turning innovative ideas into seamless digital experiences."
         />
 
         <meta property="og:title" content="Abdul Qadir | Full Stack Developer" />
