@@ -25,7 +25,7 @@ export const Contact = () => {
             </Link>{" "}
             or{" "}
             <Link
-              href="https://github.com/AbdulQadir1998?tab=repositories"
+              href="https://github.com/AbdulQadir1998"
               target="_blank"
               rel="nofollow"
             >
