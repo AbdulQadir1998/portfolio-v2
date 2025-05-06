@@ -14,9 +14,9 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "VN-Consulting",
+    title: "Ubiquify Digital",
     position: "Senior Software Engineer (Contract)",
-    time: "Oct 2024 - Present",
+    time: "April 2025 - Present",
     location: "Remote",
     description:
       "Developed scalable, high-performance applications using MERN stack. Built a healthcare portal with real-time chat, secure report storage (AWS S3) and Firebase alerts. Implemented billing systems with Stripe and processed 120M+ property records from FTP Data-Tree into AWS S3, MongoDB and Apache Solr for a real estate app and deployed on AWS with CI/CD automation.",
