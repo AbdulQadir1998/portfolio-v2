@@ -18,101 +18,86 @@ export const Projects = () => {
 
 const projects = [
   {
-    title: "Issue Tracker",
-    imgSrc: "/project-imgs/issue-tracker-app-screens.png",
-    code: "https://github.com/bilalsh-dev/issue-tracker-app",
-    projectLink: "https://issue-tracker-app-h8m9.vercel.app/",
+    title: "Retailo – B2B Ordering App",
+    imgSrc: "/project-imgs/retailo-app-screens.png", // Update with actual path to your app screenshot
+    projectLink:
+      "https://play.google.com/store/apps/details?id=com.app.retailerapp",
     tech: [
-      "Typescript",
-      "React",
-      "Nextjs",
-      "Tailwind",
-      "Prisma",
-      "Postgres",
-      "React-Query",
-      "NextAuth",
+      "React Native",
+      "Redux Toolkit",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "Firebase",
+      "App Center",
     ],
     description:
-      "Application designed to streamline issue management and tracking for teams.",
+      "A multilingual B2B ordering app for retailers across the MENA region, developed with scalability and performance in mind.",
     modalContent: (
       <>
         <p>
-          Designed and developed E2E with fully functional CRUDs and filtering
-          related to the issues with markdown editor support, issues can be
-          assigned to users, Dashbord for statistics.
+          Built the Retailo B2B app from scratch using React Native, enabling
+          retailers in Pakistan, Saudi Arabia, and UAE to place and manage
+          orders efficiently.
         </p>
         <p>
-          The tech stack is based on Nextjs with the custom Radix-UI, tailwind
-          components, connected to a Prisma backend.{" "}
+          Developed a component library with RTL and multilingual support using
+          styled-components. Integrated Firebase for crash analytics and push
+          notifications, and set up Microsoft App Center for CI/CD and crash
+          reporting.
         </p>
         <p>
           <br />
-          - Dashboard with Issue Stats: View OPEN, IN PROGRESS, and CLOSED issue
-          counts at a glance.
+          - Custom component library with internationalization (i18n)
           <br />
-          - Issue Board: Filter, paginate, and sort issues with ease.
+          - Secure order management with API middleware
           <br />
-          - Create, Update, and Delete Issues: Full issue lifecycle management
-          with Markdown support for rich formatting.
+          - Firebase + Sentry for logging and crash handling
           <br />
-          - User Assignment: Assign tasks to team members to ensure
-          accountability.
-          <br />- Responsive Design: Optimized for both desktop and mobile
-          devices.
-          <br />- SEO-Friendly: Follows best practices for search engine
-          optimization.
-          <br />- Performance: Built with a focus on speed and user experience.
+          - Automated builds and deployments via App Center
         </p>
       </>
     ),
   },
   {
-    title: "Proshop",
-    imgSrc: "/project-imgs/proshop-app-screens.png",
-    code: "https://github.com/bilalsh-dev/proshop-ts",
-    projectLink: "https://proshop-2bty.onrender.com/",
-    tech: ["React", "Node.js", "Express.js", "MongoDB", "Redux-toolkit"],
+    title: "Skipify – Real Estate Skip Tracing",
+    imgSrc: "/project-imgs/skipify-app-screens.png", // Update with actual path to your app screenshot
+    projectLink: "https://www.skipify.ai",
+    tech: [
+      "Nest.js",
+      "React.js",
+      "Redux Toolkit",
+      "MongoDB",
+      "Stripe API",
+      "Apache Solr",
+      "AWS",
+    ],
     description:
-      "eCommerce platform built with the MERN stack, Redux, Typescript. It is a full-featured online store with shopping cart, PayPal & credit/debit payments",
+      "High-performance property data tracing platform for the U.S. real estate market, with large-scale ingestion and billing features.",
     modalContent: (
       <>
         <p>
-          Designed and implemented an e-commerce platform E2E using (Typescript,
-          React.js, Node.js, Express.js, MongoDB).
+          Contributed to the development of a scalable skip tracing platform
+          used by real estate professionals across the USA. Implemented Stripe
+          billing workflows and processed over 120M+ property records.
         </p>
         <p>
-          The tech stack is based on MERN with the custom react-bootstrap
-          components, connected to a Node.js(express.js) backend, with data
-          stored in MongoDB.
+          Built secure ingestion pipelines using AWS S3 and Apache Solr. Managed
+          front-end state with Redux Toolkit and enabled seamless payment and
+          subscription tracking via Stripe.
         </p>
         <p>
           <br />
-          - Full featured shopping cart
+          - Stripe-powered billing and history tracking
           <br />
-          - Product reviews and ratings
+          - Processed 120M+ records via FTP → AWS S3 → Solr pipeline
           <br />
-          - Top products carousel
+          - Deployed on EC2 with structured data storage in MongoDB
           <br />
-          - Product pagination
-          <br />
-          - Product search feature
-          <br />
-          - User profile with orders
-          <br />
-          - Admin product management
-          <br />
-          - Admin user management
-          <br />
-          - Admin Order details page
-          <br />
-          - Mark orders as delivered option
-          <br />
-          - Checkout process (shipping, payment method, etc)
-          <br />
-          - PayPal / credit card integration
-          <br />- Database seeder (products & users)
+          - Advanced real estate search and filtering tools
         </p>
       </>
     ),
   },
 ];
+
