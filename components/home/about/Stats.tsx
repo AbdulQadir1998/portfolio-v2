@@ -27,12 +27,12 @@ export const Stats = () => {
             <span className="chip">Docker</span>
             <span className="chip">CI/CD</span>
             <span className="chip">AWS</span>
-            <span className="chip">DigitalOcean</span>
-            <span className="chip">Firebase</span>
-            <span className="chip">Github</span>
+            <span className="chip">Redis</span>
+            <span className="chip">LLM APIs</span>
+            <span className="chip">RAG Pipelines</span>
+            <span className="chip">Prompt Engineering</span>
             <span className="chip">Python</span>
-            <span className="chip">Mircoservices</span>
-            <span className="chip">Cypress</span>
+            <span className="chip">Microservices</span>
             <span className="chip">GraphQL</span>
 
 

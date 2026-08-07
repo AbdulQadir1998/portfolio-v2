@@ -16,10 +16,10 @@ const experience = [
   {
     title: "Ubiquify Digital",
     position: "Senior Software Engineer (Contract)",
-    time: "April 2025 - Present",
-    location: "Remote",
+    time: "April 2025 - July 2026",
+    location: "Lahore, Pakistan",
     description:
-      "Developed scalable, high-performance applications using MERN stack. Built a healthcare portal with real-time chat, secure report storage (AWS S3) and Firebase alerts. Implemented billing systems with Stripe and processed 120M+ property records from FTP Data-Tree into AWS S3, MongoDB and Apache Solr for a real estate app and deployed on AWS with CI/CD automation.",
+      "Developed and delivered production-grade SaaS applications, including multi-tenant platforms, AI-driven SEO automation systems, and enterprise workflow solutions. Leveraged modern technologies such as React, Node.js, NestJS, PostgreSQL, AWS, and N8N to enhance scalability, automation, and operational efficiency.",
     tech: [
       "React.js",
       "Next.js",
@@ -28,38 +28,20 @@ const experience = [
       "Redux-Toolkit",
       "MongoDB",
       "PostgreSQL",
-      "AWS (EC2, S3, RDS, Lambda)",
+      "AWS (EC2, S3, RDS, CloudWatch, SNS)",
       "TypeScript",
       "WebSockets",
-      "Stripe",
-      "DynamoDB",
-    ],
-  },
-  {
-    title: "Techtiz",
-    position: "Senior Software Engineer",
-    time: "Oct 2024 - Feb 2025",
-    location: "Lahore, Pakistan",
-    description:
-      "Led full-stack development of multiple applications, including a golf event scheduling system with Google Maps API, a fitness app with personalized workout plans and an enterprise admin portal with RBAC. Designed and deployed scalable backend systems using Nest.js and AWS services.",
-    tech: [
-      "React.js",
-      "Node.js",
-      "Nest.js",
-      "PostgreSQL",
-      "AWS (EC2, S3, RDS)",
-      "Firebase",
-      "Bitrix",
-      "GraphQL",
+      "Supabase",
+      "LLM APIs",
+      "RAG Pipelines",
       "Docker",
       "CI/CD",
-      "DigitalOcean"
     ],
   },
   {
     title: "Techdots",
     position: "Senior Software Engineer",
-    time: "Jan 2024 - Oct 2024",
+    time: "Jan 2024 - Feb 2025",
     location: "Lahore, Pakistan",
     description:
       "Developed a B2C shipment tracking system for diamonds, a real estate agency portal with RBAC and a CMS for an app offering brand discounts. Migrated a Ruby-based CMS to Node.js using Nest.js and PostgreSQL, implementing TypeORM for backend scalability.",
