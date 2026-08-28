@@ -23,7 +23,7 @@ export const Hero = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy}>
-              I&apos;ve spent the last 5 years building and scaling applications
+              I&apos;ve spent the last 4+ years building and scaling applications
               for some pretty cool companies and individuals. I also create
               interesting self projects on my spare time. Let&apos;s connect!
             </p>

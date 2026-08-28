@@ -64,7 +64,7 @@ const experience = [
   {
     title: "Retailo Technologies",
     position: "Software Engineer",
-    time: "Sep 2020 - Jan 2024",
+    time: "Sep 2020 - Jan 2023",
     location: "Lahore, Pakistan",
     description:
       "Developed a Warehouse Management System (ERP) with OpenSearch & Elasticsearch. Led the development of a React Native StockFlo App for warehouse inventory tracking and contributed to the Retailo B2B ordering app with multilingual support and Redux state management.",
