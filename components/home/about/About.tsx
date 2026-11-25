@@ -13,24 +13,34 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Howdy! I&apos;m Abdul Qadir, and I&apos;m a Computer Science
-              graduate.
+              Howdy! I&apos;m Abdul Qadir, a Senior Software Engineer and
+              Technical Team Lead with 6+ years of experience turning business
+              ideas into dependable software products.
               <br />
               <br />
-              Specializing in React, Redux, Next.js, Node.js, and Nest.js, I have built scalable, high-performance applications for a variety of industries. 
-              I thrive on solving complex problems and ensuring seamless user experiences across web and mobile platforms.
+              I work with founders and teams from the first idea to a live
+              product: shaping the right solution, designing a platform that
+              can grow with your business, and shipping it with quality and
+              care.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              My expertise extends to backend development with Express.js PostgreSQL, MongoDB, and MySQL, leveraging cloud solutions like AWS and DigitalOcean.
-              From architecting APIs to implementing CI/CD pipelines, I ensure efficient and secure application development.
+              Lately I build AI-powered products: intelligent assistants and
+              agents that automate repetitive work, answer customer questions
+              and help people make better decisions. Examples include UK
+              platforms for parking-fine appeals and family wellness, and an
+              AI SEO platform that plans and publishes content automatically.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;m a firm believer in clean code practices, test-driven development, and automation to build maintainable and scalable applications. 
-              My work also involves integrating third-party services, optimizing performance, and enhancing security.
+              I&apos;ve delivered products in e-commerce and B2B ordering,
+              fintech, healthcare, real estate, fitness, legal tech, warehouse
+              operations and multi-tenant SaaS. I focus on what matters to
+              your business: reliability, speed to market, scalability and
+              clear communication, while mentoring teams and keeping delivery
+              on track.
             </p>
           </Reveal>
           <Reveal>

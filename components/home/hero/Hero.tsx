@@ -18,14 +18,15 @@ export const Hero = () => {
           </Reveal>
           <Reveal>
             <h2 className={styles.subTitle}>
-              I&apos;m a <span>Sr. Software Engineer</span>
+              I&apos;m a <span>Senior Software Engineer</span>
             </h2>
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy}>
-              I&apos;ve spent the last 4+ years building and scaling applications
-              for some pretty cool companies and individuals. I also create
-              interesting self projects on my spare time. Let&apos;s connect!
+              I turn ideas into reliable products people actually use. With 6+
+              years across fintech, healthcare, commerce and AI, I help
+              businesses design, build and launch scalable platforms, from
+              first concept to production. Let&apos;s build something great.
             </p>
           </Reveal>
           <Reveal>
