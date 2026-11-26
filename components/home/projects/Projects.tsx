@@ -87,7 +87,7 @@ const projects = [
     ),
   },
   {
-    title: "Curetrax – Remote Patient Monitoring (HealthTech)",
+    title: "Curetrax – Remote Patient Monitoring (Germany)",
     imgSrc: "/project-imgs/curetrax-app-screens.png",
     projectLink: "https://www.curetrax.com/",
     tech: ["Mobile App", "Web Dashboard", "Garmin Wearables", "AWS", "HIPAA"],

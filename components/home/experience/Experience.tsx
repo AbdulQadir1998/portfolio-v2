@@ -19,7 +19,7 @@ const experience = [
     time: "Sep 2026 - Present",
     location: "Lahore, Pakistan",
     description:
-      "Tech Lead and hands-on engineer for TripInSync and WellnessGram, UK platforms built from scratch. Own architecture and technical direction, design NestJS microservices behind Next.js front ends, and build AI agents and LLM workflows (PCN appeal drafting grounded in UK case law, risk prediction, deadline alerts, clinician-checked guidance). Set up AWS, Docker and CI/CD, integrate DVLA checks, EV charging networks and Open Banking payments, and lead planning, code reviews and mentoring.",
+      "Tech Lead and hands-on engineer for TripInSync and WellnessGram, UK platforms built from scratch. Lead a team of 5, own architecture and technical direction, and design 12+ NestJS microservices behind Next.js front ends, and build AI agents and LLM workflows (PCN appeal drafting grounded in UK case law, risk prediction, deadline alerts, clinician-checked guidance). Set up AWS, Docker and CI/CD, integrate DVLA checks, EV charging networks and Open Banking payments, and lead planning, code reviews and mentoring.",
     tech: [
       "Next.js",
       "Nest.js",
@@ -86,7 +86,7 @@ const experience = [
     time: "Sep 2020 - Dec 2023",
     location: "Lahore, Pakistan (Remote)",
     description:
-      "Led backend development of a custom Warehouse Management System with NestJS, MySQL and Prisma across multiple countries, using AWS Lambda, S3, SQS and EC2 for event-driven microservices (inventory, purchase orders, vendors). Earlier, built the Retailo and StockFlo React Native apps with Google Maps delivery check-ins, live inventory capture, Redux Toolkit, Firebase and Detox testing. Documented APIs, cutting developer onboarding time by ~50%.",
+      "Led backend development of a custom Warehouse Management System with NestJS, MySQL and Prisma across multiple countries, using AWS Lambda, S3, SQS and EC2 for backend services (inventory, purchase orders, vendors). Earlier, built the Retailo and StockFlo React Native apps with Google Maps delivery check-ins, live inventory capture, Redux Toolkit, Firebase and Detox testing. Documented APIs, cutting developer onboarding time by ~50%.",
     tech: [
       "Nest.js",
       "MySQL",
